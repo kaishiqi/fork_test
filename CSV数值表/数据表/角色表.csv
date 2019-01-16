@@ -1,0 +1,7 @@
+roleId,name,desc,location,rare,starMin,attribute,starMax,starLevelType,status
+角色ID,名称,备注,职业,稀有度,初始星级,角色颜色属性,星级满级（非誓约）,升星类型,状态
+int,int,string,int,int,int,int,int,int,int
+1,1,1,1,1,1,1,1,1,1
+1001（角色编号）01（皮肤名）,角色名ID,名字,1 坦克 2输出（近战）3输出（远程）4治疗  5辅助,只用于显示,,1水，2木，3火，4日，5月,,用于切换消耗品,
+100101,100101,日天,2,2,2,5,5,1,1
+100102,100102,安德莉亚,3,3,3,1,5,1,1
